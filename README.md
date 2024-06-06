@@ -73,6 +73,8 @@ ii. Edit the readme document by adding your name to the document.
 
 e.g. \#Git-Exercise by Norman Lo
 
+\#Git-Exercise by Christopher Kim
+
 ## Step 6:
 Pull the updated readme back to the local device.
 
